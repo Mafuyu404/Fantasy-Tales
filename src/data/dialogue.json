@@ -1,0 +1,45 @@
+{
+  "yakumo": [
+    {
+      "talker": "yukari",
+      "emote": "normal",
+      "content": "干嘛？",
+      "fork": [
+        "a",
+        "b"
+      ]
+    },
+    {
+      "talker": "{{role}}",
+      "emote": "normal",
+      "content": "拿点纪念品。",
+      "branch": [
+        "a"
+      ],
+      "event": {
+        "handle": [
+          "summonBoss(yukari)"
+        ],
+        "weight": [
+          1
+        ]
+      }
+    },
+    {
+      "talker": "{{role}}",
+      "emote": "normal",
+      "content": "饿了。",
+      "branch": [
+        "b"
+      ],
+      "event": {
+        "handle": [
+          "consumable({banana})"
+        ],
+        "weight": [
+          1
+        ]
+      }
+    }
+  ]
+}

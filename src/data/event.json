@@ -1,0 +1,198 @@
+{
+  "bottle": {
+    "name": "瓶子",
+    "detail": "脚边有一个脏兮兮的瓶子，里面有东西在发光。",
+    "type": "selection",
+    "avatar": "di"
+  },
+  "itemshop": {
+    "name": "香霖堂",
+    "detail": "奇怪的杂货店，店主看上去很友好。",
+    "type": "shop",
+    "avatar": "linzhizhu"
+  },
+  "bookshop": {
+    "name": "铃奈庵",
+    "detail": "不仅有故事书，还有记录妖术的妖魔书。",
+    "type": "shop",
+    "avatar": "xiaoling"
+  },
+  "canteen": {
+    "name": "鲵吞亭",
+    "detail": "奇妙的居酒屋，有一位可爱的看板娘。",
+    "type": "shop",
+    "avatar": "meixiao"
+  },
+  "yakumo": {
+    "name": "八云邸",
+    "detail": "浓厚的历史气息。却有些人类世界的道具。",
+    "type": "selection",
+    "avatar": "zi"
+  },
+  "school": {
+    "name": "寺子屋",
+    "detail": "人类村落中的一所学校。学习知识的地方。",
+    "type": "special",
+    "avatar": "huiyin"
+  },
+  "chest": {
+    "name": "宝箱",
+    "detail": "地上真的会凭空出现宝箱吗？真的可以打开吗？",
+    "type": "reward",
+    "avatar": "ahou"
+  },
+  "turntable": {
+    "name": "幸运转盘",
+    "detail": "看来能获得一些稀奇的东西，反正不是坏事！",
+    "type": "game",
+    "avatar": "di"
+  },
+  "shrine": {
+    "name": "天降御守",
+    "detail": "要不打开看一下吧，万一是大吉呢？",
+    "type": "rule?"
+  },
+  "zixuan": {
+    "name": "稻荷祠堂",
+    "detail": "满是青苔，虽年久失修，看着却让人感到安心。",
+    "type": "reward",
+    "avatar": "muoduoluo"
+  },
+  "coin": {
+    "name": "硬币",
+    "detail": "捡到钱啦！",
+    "type": "reward",
+    "avatar": "ahou"
+  },
+  "delete_and_many": {
+    "name": "选择",
+    "detail": "将一件收藏品从本次游戏中移除，并获得大量另一件收藏品。",
+    "type": "selection",
+    "avatar": "muoduoluo"
+  },
+  "dragon": {
+    "name": "龙神像",
+    "detail": "风雨的祝福。",
+    "type": "rule",
+    "avatar": "muoduoluo"
+  },
+  "select_boss": {
+    "name": "去向",
+    "detail": "这一次，你想见谁？",
+    "type": "rule",
+    "unbreakable": true,
+    "avatar": "meili"
+  },
+  "the_666": {
+    "name": "骰子大师",
+    "detail": "投出两个6就有大奖，次数越多奖励越少。",
+    "type": "game"
+  },
+  "p21": {
+    "name": "二十一点",
+    "detail": "打牌，赢了就有大奖。",
+    "type": "game"
+  },
+  "donate_blood": {
+    "name": "爱心血站",
+    "detail": "只要人人都献出一点爱，世界就会变成美好的人间。",
+    "type": "selection",
+    "avatar": "yonglin"
+  },
+  "dizang": {
+    "name": "地藏像",
+    "detail": "看起来已经很旧了。",
+    "type": "selection?",
+    "avatar": "meixiao"
+  },
+  "yuehong": {
+    "name": "月虹市场",
+    "detail": "位于高空的云层中，是一个用于交易卡牌的集市。",
+    "type": "shop?"
+  },
+  "yequeshitang": {
+    "name": "夜雀食堂",
+    "detail": "有着红色灯笼的移动货摊。不是烤（鸟）肉店而是烤鳗鱼店。",
+    "type": "shop?"
+  },
+  "copy": {
+    "name": "复制",
+    "detail": "复制什么都可以哦。",
+    "type": "special",
+    "avatar": "xiaosan"
+  },
+  "change": {
+    "name": "转化",
+    "detail": "变成什么都别怨我哦。",
+    "type": "special",
+    "avatar": "xiaosan"
+  },
+  "shoucangjia": {
+    "name": "收藏家",
+    "detail": "只收不换，只买不卖，只一不二。",
+    "type": "special",
+    "avatar": "aqiu"
+  },
+  "wanted": {
+    "name": "悬赏",
+    "detail": "收人钱财，替人消灾。",
+    "type": "special?",
+    "avatar": "meixiao"
+  },
+  "zagu": {
+    "name": "杂鱼",
+    "detail": "反正是杂鱼，顺手收拾掉吧。",
+    "type": "enermy",
+    "unbreakable": true,
+    "avatar": "wen"
+  },
+  "elite": {
+    "name": "强敌",
+    "detail": "比杂鱼要强，要认真应对了。",
+    "type": "enermy",
+    "unbreakable": true,
+    "avatar": "wen"
+  },
+  "boss": {
+    "name": "BOSS",
+    "detail": "这种强大的气场，只能用BOSS来形容了。",
+    "type": "enermy",
+    "unbreakable": true,
+    "avatar": "wen"
+  },
+  "xijian": {
+    "name": "隙间",
+    "detail": "某个妖怪随意留下的隙间，不知通向何方。",
+    "type": "rule",
+    "unbreakable": true,
+    "avatar": "zi"
+  },
+  "big_chest": {
+    "name": "特大宝箱",
+    "detail": "是很大很大很大的宝箱没错，但不知为何有个投币口。",
+    "type": "reward",
+    "avatar": "di"
+  },
+  "muxiazi": {
+    "name": "木匣子",
+    "detail": "就当是宝箱好了。",
+    "type": "reward",
+    "avatar": "ahou"
+  },
+  "diaochuang": {
+    "name": "吊床",
+    "detail": "看起来摇摇晃晃的，想必是非常新奇的体验。",
+    "type": "reward",
+    "avatar": "ahou"
+  },
+  "laohuji": {
+    "name": "老虎机",
+    "detail": "真的不来试试看？真的不来试试看？真的不来试试看？",
+    "type": "game"
+  },
+  "yidongba": {
+    "name": "移动靶场",
+    "detail": "射中啥就是啥，绝不赖皮！",
+    "type": "game"
+  }
+}

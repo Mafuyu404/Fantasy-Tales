@@ -1,0 +1,313 @@
+{
+  "bronze_mirror": {
+    "name": "铜镜",
+    "detail": "对敌人造成伤害时，25%概率额外对随机其它敌人造成伤害30%(每个+30%)的间接伤害。无法循环触发。",
+    "type": "blue",
+    "unlock": "default"
+  },
+  "mimosa": {
+    "name": "三片叶子的含羞草",
+    "detail": "受到的伤害不会超过最大生命值的70%(每个*95%)。",
+    "type": "blue",
+    "unlock": "ac001"
+  },
+  "compass_cat": {
+    "name": "罗盘猫",
+    "detail": "对速度低于自己的敌人造成伤害+10%(每个+10%)。",
+    "type": "blue",
+    "unlock": "ac002"
+  },
+  "bird_wine": {
+    "name": "雀酒",
+    "detail": "击败敌人时对全体敌人附加燃烧*1(每个+1)。",
+    "type": "blue",
+    "unlock": "default"
+  },
+  "frozen_frog": {
+    "name": "冻青蛙",
+    "detail": "战斗开始时速度+0.3(每个+0.3)，回合结束时-0.3，直至该增益为0。",
+    "type": "blue",
+    "unlock": "default"
+  },
+  "fluorescent_zanthoxylum": {
+    "name": "荧光花椒",
+    "detail": "暴击率+5%(每个+5%)。",
+    "type": "blue",
+    "unlock": "default"
+  },
+  "corvis_feathers": {
+    "name": "鸦天狗羽毛",
+    "detail": "处于两个及以上效果下时，速度+0.2(每个+0.2)。",
+    "type": "blue",
+    "unlock": "ac003"
+  },
+  "sundial": {
+    "name": "日晷",
+    "detail": "间接伤害提高10%(每个+10%)。",
+    "type": "blue",
+    "unlock": "ac004"
+  },
+  "pickled_radish": {
+    "name": "腌萝卜",
+    "detail": "生命值高于90%时符卡对敌人造成的伤害+10%(每个+10%)。",
+    "type": "blue",
+    "unlock": "ac005"
+  },
+  "conch_shell": {
+    "name": "海螺壳",
+    "detail": "每次受到的伤害固定减少1(每个+1)。",
+    "type": "blue",
+    "unlock": "default"
+  },
+  "cursed_wind_chimes": {
+    "name": "被诅咒的风铃",
+    "detail": "造成60(每个-3)及以上的最终伤害时，驱散目标的所有正面效果。",
+    "type": "blue",
+    "unlock": "default"
+  },
+  "false_hammer": {
+    "name": "万宝槌（仿制品）",
+    "detail": "对强敌造成的伤害+10%(每个+10%)。",
+    "type": "blue",
+    "unlock": "ac006"
+  },
+  "shy_rabbit": {
+    "name": "害羞兔",
+    "detail": "每第三张牌造成的伤害+15%(每个+15%)。",
+    "type": "blue",
+    "unlock": "default"
+  },
+  "crown_of_thorns": {
+    "name": "荆棘礼冠",
+    "detail": "在敌人的回合，受到伤害的敌人受到的伤害+10%(每个+10%)，持续一回合。",
+    "type": "blue",
+    "unlock": "ac007"
+  },
+  "midnight_cloak": {
+    "name": "午夜斗篷",
+    "detail": "对生命值低于50%的敌人造成的伤害增加10%(每个+10%)。",
+    "type": "blue",
+    "unlock": "default"
+  },
+  "ice_scale": {
+    "name": "冰之鳞",
+    "detail": "直接伤害10%(每个+10%)概率附加迟缓*1。",
+    "type": "blue",
+    "unlock": "default"
+  },
+  "sakura_tea": {
+    "name": "樱茶",
+    "detail": "受到的治疗效果+10%(每个+10%)。",
+    "type": "blue",
+    "unlock": "default"
+  },
+  "big_bugle": {
+    "name": "大喇叭",
+    "detail": "回合结束时对全体目标造成2(每个+2)穿透间接伤害。",
+    "type": "blue",
+    "unlock": "default"
+  },
+  "carnyx": {
+    "name": "助眠的卡尼克斯号",
+    "detail": "商店打折95%(每个*95%)。",
+    "type": "blue",
+    "unlock": "ac000"
+  },
+  "rune_sword": {
+    "name": "符文之刃",
+    "detail": "造成的穿透伤害+5%(每个+5%)，受到的穿透伤害-5%(每个-5%)。",
+    "type": "blue",
+    "unlock": "ac009"
+  },
+  "butterfly": {
+    "name": "莲花蝶",
+    "detail": "每回合受到第二次及后续伤害时，生命值+1(每个+1)。",
+    "type": "blue",
+    "unlock": "ac010"
+  },
+  "portable_money_box": {
+    "name": "便携式赛钱箱",
+    "detail": "每持有400硬币，对敌人造成伤害提高5%(每个+5%)。",
+    "type": "green",
+    "unlock": "default"
+  },
+  "ghost_lantern": {
+    "name": "鬼行提灯",
+    "detail": "回合结束时，每剩余1点额外灵力，获得临时防御结界*1(每个+1)。",
+    "type": "green",
+    "unlock": "ac011"
+  },
+  "vampires_old_tooth": {
+    "name": "吸血鬼的旧牙",
+    "detail": "伤害命中处于正面效果下的敌人时回复1(每个+1)生命值。",
+    "type": "green",
+    "unlock": "default"
+  },
+  "large_roll_of_bandages": {
+    "name": "一大卷绷带",
+    "detail": "受到伤害的下一回合回复10%(每个+10%)当前生命值。",
+    "type": "green",
+    "unlock": "default"
+  },
+  "burning_seashore_flower": {
+    "name": "燃烧的彼岸花",
+    "detail": "每损失1%生命值，获得0.3%(每个+0.3%)暴击率和0.01(每个+0.01)速度。",
+    "type": "green",
+    "unlock": "ac012"
+  },
+  "skyrocket": {
+    "name": "窜天猴",
+    "detail": "普通攻击20%概率附加燃烧*2(每个+2)并获得1额外灵力。",
+    "type": "green",
+    "unlock": "default"
+  },
+  "magic_dart": {
+    "name": "魔力魔力箭",
+    "detail": "受到伤害时反击，造成10(每个+10)间接伤害。",
+    "type": "green",
+    "unlock": "default"
+  },
+  "sport_shoes": {
+    "name": "竹林棉棉鞋",
+    "detail": "每打出10(每层-1)张牌，增加1次主动装备可使用次数。",
+    "type": "green",
+    "unlock": "ac013"
+  },
+  "sticking_plaster": {
+    "name": "草莓味创可贴",
+    "detail": "过量治疗时，获得10%(每个+10%)过量治疗量的临时防御结界。",
+    "type": "green",
+    "unlock": "ac014"
+  },
+  "earthy_spider_wine": {
+    "name": "土蜘蛛酒",
+    "detail": "普通攻击后符卡造成的伤害提高30%(每个+30%)，回合初清除。",
+    "type": "green",
+    "unlock": "default"
+  },
+  "amulet_of_full_moon": {
+    "name": "圆月护符",
+    "detail": "处于负面效果下时，受到的伤害*90%(每个*90%)。",
+    "type": "green",
+    "unlock": "ac015"
+  },
+  "seal_needle": {
+    "name": "封魔针",
+    "detail": "累计造成八次伤害后，下次攻击对目标附加流血*3(每个+3)。",
+    "type": "green",
+    "unlock": "default"
+  },
+  "trolley": {
+    "name": "手推车",
+    "detail": "击败敌人时获得1(每个+1)额外灵力。",
+    "type": "green",
+    "unlock": "default"
+  },
+  "dimensional_pocket": {
+    "name": "隙间纸袋",
+    "detail": "消耗品上限+1(每个+1)。",
+    "type": "green?"
+  },
+  "terrible_ring": {
+    "name": "可爱小戒指",
+    "detail": "每经过一回合，暴击率+4%(每个+4%)。",
+    "type": "green",
+    "unlock": "ac016"
+  },
+  "toolbox": {
+    "name": "应急道具箱",
+    "detail": "使用主动装备或丢弃手牌时，25%(每个+25%)概率触发一次击败事件。",
+    "type": "green",
+    "unlock": "ac017"
+  },
+  "light_bulb": {
+    "name": "电灯泡",
+    "detail": "灵力低于1(每个+1)时抽两张牌。",
+    "type": "green",
+    "unlock": "ac018"
+  },
+  "patchoulis_ribbon": {
+    "name": "帕秋莉的缎带",
+    "detail": "牌库中灵力消耗最高的一张牌灵力消耗-1(每个-1)。",
+    "type": "green",
+    "unlock": "ac019"
+  },
+  "free_eagle": {
+    "name": "自由之鹰",
+    "detail": "连续暴击时清除自身随机2(每个+2)层负面效果。",
+    "type": "green",
+    "unlock": "ac000"
+  },
+  "winter_gloves": {
+    "name": "防寒手套",
+    "detail": "没有手牌时抽一张牌，每回合生效1(每个+1)次。",
+    "type": "green",
+    "unlock": "ac020"
+  },
+  "black_8": {
+    "name": "八号球",
+    "detail": "击败敌人后，受到的伤害*90%(每个*90%)，持续一回合。",
+    "type": "green",
+    "unlock": "ac021"
+  },
+  "red_and_white_scarf": {
+    "name": "红白围巾",
+    "detail": "生命值高于30%(每个*80%)时，受到致命伤会保留1生命值。",
+    "type": "red",
+    "unlock": "ac023"
+  },
+  "bottle_of_stars": {
+    "name": "装星星的瓶子",
+    "detail": "造成100及以上的伤害时附加1(每个+1)颗星星，在下回合爆炸造成最终伤害30%的额外伤害。",
+    "type": "red",
+    "unlock": "ac024"
+  },
+  "blade_of_yellow_spring": {
+    "name": "黄泉之刃",
+    "detail": "回合初获得1(每个+1)张临时普通攻击，手牌上限+1(每个+1)。",
+    "type": "red",
+    "unlock": "ac025"
+  },
+  "human_soul_lamp": {
+    "name": "人魂灯",
+    "detail": "暴击伤害+70%(每个+70%)。",
+    "type": "red",
+    "unlock": "default"
+  },
+  "paper_windmill": {
+    "name": "式神·风力发电机",
+    "detail": "自然灵力和额外灵力上限+1(每个+1)，回合初获得1(每个+1)额外灵力。",
+    "type": "red",
+    "unlock": "default"
+  },
+  "fish_stone": {
+    "name": "鱼石",
+    "detail": "自身负面效果结算时所取层数减2(每个+2)。",
+    "type": "red",
+    "unlock": "default"
+  },
+  "JupiterACL300": {
+    "name": "木星ACL300",
+    "detail": "所有直接伤害都会爆炸，对目标左右两边第一个对象造成伤害25%(每个+25%)的间接伤害。",
+    "type": "red",
+    "unlock": "default"
+  },
+  "shimenawa": {
+    "name": "注连绳",
+    "detail": "每剩余1主动装备可使用次数，受到的伤害-1，造成的伤害+1(每层+1)。",
+    "type": "red",
+    "unlock": "ac026"
+  },
+  "flip_flops": {
+    "name": "旧都人字拖",
+    "detail": "每拥有1额外灵力，速度+0.2(每个+0.2)。",
+    "type": "red",
+    "unlock": "default"
+  },
+  "ace": {
+    "name": "Ace",
+    "detail": "概率事件额外判定1(每个+1)次，取更好的一次。",
+    "type": "red",
+    "unlock": "ac027"
+  }
+}

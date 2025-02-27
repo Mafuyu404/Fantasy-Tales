@@ -1,0 +1,62 @@
+{
+  "nodas_hat": {
+    "name": "野田的帽子",
+    "detail": "生命值高于50%时受到伤害增加20%，低于50%时则减少30%。",
+    "unlock": "default"
+  },
+  "aokis_fish": {
+    "name": "苍姬的鱼",
+    "detail": "受到伤害时70%概率获得随机负面效果(迟缓、疲倦、易伤、虚弱、恍惚)*1，30%概率消除本次伤害。",
+    "unlock": "default"
+  },
+  "ahabs_opinion": {
+    "name": "亚哈的意见",
+    "detail": "生命上限变为70%，战斗开始时回复全部生命值。",
+    "unlock": "default"
+  },
+  "mimicry_cat_pendant": {
+    "name": "拟态的猫挂件",
+    "detail": "打出手牌时，每有1灵力需求，扣除10%当前生命值，不消耗灵力。",
+    "unlock": "default"
+  },
+  "wanderlust": {
+    "name": "清泧的快速补魔术",
+    "detail": "手牌上限变为5，不受速度影响，每拥有1速度，回合初获得1额外灵力。",
+    "unlock": "default"
+  },
+  "cerallins_bottle": {
+    "name": "Cerallin的酒",
+    "detail": "回合结束时丢弃所有手牌，并获得等量额外灵力。",
+    "unlock": "default"
+  },
+  "eee_book": {
+    "name": "#EEEEEE之书",
+    "detail": "未暴击的伤害转化为治疗。",
+    "unlock": "default"
+  },
+  "momos_gamepad": {
+    "name": "momos的笔记本",
+    "detail": "受到伤害时获得虚弱*4，若一回合未受到伤害，获得临时力量*5。",
+    "unlock": "default"
+  },
+  "merrys_paperclip": {
+    "name": "梅莉的曲别针",
+    "detail": "似乎没有什么特别的，但是……",
+    "unlock": "ac000"
+  },
+  "stubborn_jk": {
+    "name": "天海云夜牌U盘",
+    "detail": "生命归零不会战败。第四回合结束时必定战败。",
+    "unlock": "default"
+  },
+  "morning_star": {
+    "name": "晨星颂歌",
+    "detail": "抽牌时获得1次主动装备可使用次数，最多留有4次。",
+    "unlock": "default"
+  },
+  "ddchenzi": {
+    "name": "大陈籽的橙子",
+    "detail": "回合初获得5额外灵力，若回合结束时灵力不为0，则下回合初不触发本效果也不回复灵力。",
+    "unlock": "default"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "sort": {
+    "cirno": [
+      "Perfect_Freeze",
+      "Icicle_Fall",
+      "Diamond_Blizzard",
+      "Minus_K",
+      "Frost_Columns"
+    ],
+    "lilywhite": [
+      "Surprise_Spring"
+    ]
+  },
+  "cirno": {
+    "name": "冷气",
+    "detail": "对目标造成100%攻击力伤害。",
+    "output": {
+      "attack": [
+        {
+          "type": "scale",
+          "value": "100",
+          "aim": "one"
+        }
+      ]
+    }
+  },
+  "Perfect_Freeze": {
+    "name": "完美冻结",
+    "detail": "50%几率冻结对方一回合，50%几率冻结自己，若自己被冻结，受到的伤害减半。解冻后对目标造成300%攻击力伤害。"
+  },
+  "Icicle_Fall": {
+    "name": "冰瀑",
+    "detail": "一回合无法行动，之后对目标造成600%攻击力伤害。"
+  },
+  "Diamond_Blizzard": {
+    "name": "钻石风暴",
+    "detail": "对目标造成240%攻击力伤害并施加一层缓慢，对自己造成50%攻击力伤害。"
+  },
+  "Minus_K": {
+    "name": "负K",
+    "detail": "接下来一回合，受到伤害会反馈一层冻伤。"
+  },
+  "Frost_Columns": {
+    "name": "冰袭方阵",
+    "detail": "对目标造成200%攻击力伤害并施加两层疲倦。"
+  },
+  "Surprise_Spring": {
+    "name": "惊喜之春",
+    "detail": "随机对目标造成80%到200%攻击力伤害",
+    "output": {
+      "attack": [
+        {
+          "type": "random",
+          "typeofRandom": "scale",
+          "max": "80",
+          "min": "200",
+          "aim": "one"
+        }
+      ]
+    }
+  }
+}

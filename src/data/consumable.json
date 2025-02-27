@@ -1,0 +1,27 @@
+{
+  "doubtful_potion": {
+    "name": "可疑的药水",
+    "detail": "生命值随机变动-50%至50%。",
+    "source": "event"
+  },
+  "heart_fire_of_grace": {
+    "name": "恩惠的心之火",
+    "detail": "本场战斗中第一次受到致命伤害时，免疫所有伤害，持续一回合。",
+    "source": "shop"
+  },
+  "gift_from_ergen": {
+    "name": "厄神的小礼物",
+    "detail": "对方全体攻击降低20%，持续三回合。",
+    "source": "event"
+  },
+  "good_corn": {
+    "name": "上好的玉米",
+    "detail": "驱散自身所有负面效果。",
+    "source": "shop"
+  },
+  "banana": {
+    "name": "香蕉",
+    "detail": "回复17生命值。",
+    "source": "event"
+  }
+}
